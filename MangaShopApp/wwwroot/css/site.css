@@ -20,3 +20,11 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.borderRadiusLeft {
+    border-radius: 10px 0px 0px 10px;
+}
+
+.borderRadiusRight {
+    border-radius: 0px 10px 10px 0px;
+}

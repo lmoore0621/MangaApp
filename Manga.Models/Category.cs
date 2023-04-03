@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 
-namespace MangaWeb.Models
+namespace Manga.Models
 {
     public class Category
     {

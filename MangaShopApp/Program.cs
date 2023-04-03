@@ -1,4 +1,4 @@
-using MangaWeb.Data;
+using Manga.DataAccess.Data;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);

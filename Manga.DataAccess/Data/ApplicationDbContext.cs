@@ -1,7 +1,7 @@
-﻿using MangaWeb.Models;
+﻿using Manga.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace MangaWeb.Data
+namespace Manga.DataAccess.Data
 {
     public class ApplicationDbContext : DbContext
     {

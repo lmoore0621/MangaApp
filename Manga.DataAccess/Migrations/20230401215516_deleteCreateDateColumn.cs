@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace MangaWeb.Migrations
+namespace Manga.DataAccess.Migrations
 {
     /// <inheritdoc />
     public partial class deleteCreateDateColumn : Migration
